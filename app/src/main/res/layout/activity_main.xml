@@ -29,4 +29,10 @@
 
     </com.google.android.material.tabs.TabLayout>
 
+    <com.simplemobiletools.commons.views.MyViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/main_tabs_holder" />
+
 </RelativeLayout>

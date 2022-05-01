@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toggle_recording_button" type="id">toggle_recording_button</item>
+</resources>
