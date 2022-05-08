@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Simple_Voice_Recorder_Mimic</string>
+    <string name="app_launcher_name">Voice Recorder</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="open_with">Open with</string>
+    <string name="delete">Delete</string>
+    <string name="no_recordings_found">No recordings created by this app have been found</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_name">The name contains invalid characters</string>
+    <string name="color_customization">Color customization</string>
+    <string name="purchase_simple_thank_you">Purchase Simple Thank You</string>
+    <string name="bitrate">bitrate</string>
+    <string name="m4a">m4a</string>
+    <string name="save_recordings_in">Save recordings in</string>
+    <string name="record_after_launch">record after launch</string>
+    <string name="try_hiding_notification">try hiding notification</string>
+    <string name="ogg">ogg</string>
+    <string name="mp3">mp3</string>
+    <string name="bitrate_value">%d kbps</string>
+    <string name="delete_recordings_confirmation">Delete %s?</string>
+    <plurals name="delete_recordings">
+        <item quantity="one">%d recording</item>
+        <item quantity="other">%d recordings</item>
+    </plurals>
 </resources>
